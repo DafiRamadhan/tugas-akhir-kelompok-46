@@ -1,0 +1,86 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  letter-spacing: var(--spacing);
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  font-family: Arial;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.75rem;
+}
+h4 {
+  font-size: 1.25rem;
+}
+h5 {
+  font-size: 1.1rem;
+}
+
+button:hover {
+  background-color: #4ec24e;
+  color:cornsilk;
+  transition-duration: 0.4s;
+}
+
+#btn-menu{
+  font-size: 20px;
+    
+    background-color: #4ec24e;
+    border-radius: 10px;
+    padding: 16px 32px;
+    text-align: center;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 0px;
+    box-shadow: 0 0 10px 1px rgba(119, 212, 131, 0.7);
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+#btn-menu:hover {
+    background-color: rgb(48, 119, 45);
+    color: white;
+}
+
+.Menu {
+  text-align: center;
+}
+
+.card {
+  border-radius: 250px;
+}
+
+#ganti-gambar {
+  font-size: 20px;
+  color: white;
+  background-color: #000000;
+  border-radius: 10px;
+  padding: 8px 16px;
+  text-align: center;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border: 0px;
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.7);
+  margin-bottom: 20px;
+}
+
+#ganti-gambar:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.welcome {
+  text-align: center;
+  font-family: sans-serif;
+}

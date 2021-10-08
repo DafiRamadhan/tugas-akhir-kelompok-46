@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nama": "dr. Elena, Sp.A",
+      "image": "https://as1.ftcdn.net/v2/jpg/03/07/18/76/1000_F_307187635_fbuwoU3r812OH2zrIByUAcCGax4TxMST.jpg",
+      "hari": "senin, selasa, kamis",
+      "jam": "09.00-13.00",
+      "spesialis": "Dokter Anak",
+      "telepon": "024-7584930",
+      "alamat": "Jl. Kiwi No. 3, Semarang"
+    },
+    {
+      "id": 2,
+      "nama": "dr. Alfian, Sp.THT ",
+      "image": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+      "hari": "Rabu-Jumat",
+      "jam": "18.30-21.30",
+      "spesialis": "Dokter THT",
+      "telepon": "024-7584930",
+      "alamat": "Jl. Duku No. 7, Semarang"
+    },
+    {
+      "id": 3,
+      "nama": "dr. Andika, Sp.Ak ",
+      "image": "https://t3.ftcdn.net/jpg/02/95/51/80/360_F_295518052_aO5d9CqRhPnjlNDTRDjKLZHNftqfsxzI.jpg",
+      "hari": "Selasa-Kamis",
+      "jam": "13.00-21.30",
+      "spesialis": "Dokter Umum",
+      "telepon": "024-4568765",
+      "alamat": "Jl. Anggur No.15, Semarang"
+    }
+  ]
+}

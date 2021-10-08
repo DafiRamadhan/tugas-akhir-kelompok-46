@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nama": "Bred Afharnd",
+      "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "37",
+      "TTL": "Jakarta, 5 Desember 1984",
+      "telepon": "53434323",
+      "alamat": "Tembalang, Semarang",
+      "ruang" : "Tipe A No.1"
+    },
+    {
+      "id": 2,
+      "nama": "Ervin Howell",
+      "avatar": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "15",
+      "TTL": "Semarang, 15 Juli 2006",
+      "telepon": "45342535",
+      "alamat": "Pedurungan, Semarang",
+      "ruang": "Tipe A No.2"
+    },
+    {
+      "id": 3,
+      "nama": "Clementine Bauch",
+      "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "23",
+      "TTL": "Surabaya, 14 Januari 1998",
+      "telepon": "53676489",
+      "alamat": "Ngaliyan, Semarang",
+      "ruang": "Tipe C No.1"
+    },
+    {
+      "id": 4,
+      "nama": "Ronald Lebsack",
+      "avatar": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "45",
+      "TTL": "Bandung, 17 September 1976",
+      "telepon": "98489402",
+      "alamat": "Candisari, Semarang",
+      "ruang": "Tipe B No.1"
+    },
+    {
+      "id": 5,
+      "nama": "Chelsey Dietrich",
+      "avatar": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "18",
+      "TTL": "Medan, 26 Maret 2003",
+      "telepon": "53454424",
+      "alamat": "Banyumanik, Semarang",
+      "ruang": "Tipe B No.2"
+    },
+    {
+      "id": 6,
+      "nama": "Mrs. Dennis Schulist",
+      "avatar": "https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "32",
+      "TTL": "Pontianak, 25 November 1989",
+      "telepon": "56856543",
+      "alamat": "Krapyak, Semarang",
+      "ruang": "Tipe A No.3"
+    },
+    {
+      "id": 7,
+      "nama": "Kurtis Weissnat",
+      "avatar": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "55",
+      "TTL": "Jakarta, 12 Juni 1966",
+      "telepon": "78665464",
+      "alamat": "Jatingaleh, Semarang",
+      "ruang": "Tipe C No.2"
+    },
+    {
+      "id": 8,
+      "nama": "Nicholas Runolfs",
+      "avatar": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "7",
+      "TTL": "Bandung, 7 April 2013",
+      "telepon": "76454534",
+      "alamat": "Gayamsari, Semarang",
+      "ruang": "Tipe C No.3"
+    },
+    {
+      "id": 9,
+      "nama": "Dave Reichert",
+      "avatar": "https://images.pexels.com/photos/3831612/pexels-photo-3831612.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "65",
+      "TTL": "Denpasar, 15 Desember 1956",
+      "telepon": "76449086",
+      "alamat": "Gunungpati, Semarang",
+      "ruang": "Tipe B No.3"
+    },
+    {
+      "id": 10,
+      "nama": "Clementina DuBuque",
+      "avatar": "https://images.pexels.com/photos/3290236/pexels-photo-3290236.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "umur": "46",
+      "TTL": "Medan, 27 Oktober 1975",
+      "telepon": "21347845",
+      "alamat": "Genuk, Semarang",
+      "ruang": "Tipe A No.4"
+    }
+  ]
+}
