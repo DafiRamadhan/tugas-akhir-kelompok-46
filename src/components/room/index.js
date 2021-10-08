@@ -62,6 +62,52 @@ class Room extends Component {
     });
   };
 
+   prevGambar = () => {
+        this.setState((state) => {
+            if (
+                state.image === this.props.image &&
+                state.tipe === "Tipe A" &&
+                state.bed === "1" &&
+                state.harga === "Rp2.000.000/malam" &&
+                state.fasilitas === "telepon, TV, Wi-Fi, Dapur, Ruang Tamu"
+            ) {
+                return {
+                    
+
+                    image: this.props.image3,
+                    tipe: "Tipe C",
+                    bed: "8",
+                    harga: "Rp500.000/malam",
+                    fasilitas: "TV",
+                };
+            } else if (
+                state.image === this.props.image2 &&
+                state.tipe === "Tipe B" &&
+                state.bed === "4" &&
+                state.harga === "Rp1.000.000/malam" &&
+                state.fasilitas === "telepon, TV, Wi-Fi"
+            ) {
+                return {
+                    image: this.props.image,
+                    tipe: "Tipe A",
+                    bed: "1",
+                    harga: "Rp2.000.000/malam",
+                    fasilitas: "telepon, TV, Wi-Fi, Dapur, Ruang Tamu",
+                };
+            } else {
+                return {
+                
+                    image: this.props.image2,
+                    tipe: "Tipe B",
+                    bed: "4",
+                    harga: "Rp1.000.000/malam",
+                    fasilitas: "telepon, TV, Wi-Fi",
+                };
+            }
+        });
+    };
+
+  
   render() {
     return (
       <div>
@@ -86,8 +132,13 @@ class Room extends Component {
               </CardContent>
             </Card>
             <br />
+             
+             <button id="prev-gambar" onClick={this.prevGambar}>
+               Prev
+             </button>
+                    
             <button id="ganti-gambar" onClick={this.gantiGambar}>
-              Lihat Tipe Lainnya
+              Next
             </button>
           </Grid>
         </Grid>
