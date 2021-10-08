@@ -3,7 +3,6 @@ h2,
 h3,
 h4,
 h5 {
-  letter-spacing: var(--spacing);
   text-transform: capitalize;
   line-height: 1.25;
   margin-bottom: 0.75rem;
@@ -45,6 +44,7 @@ button:hover {
     box-shadow: 0 0 10px 1px rgba(119, 212, 131, 0.7);
     margin-bottom: 20px;
     width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #btn-menu:hover {
@@ -100,7 +100,8 @@ button:hover {
         color: #000000;
     }
 
-.welcome {
+.text {
+  text-shadow: 0 0 3px #00ff37, 0 0 5px #0066ff;
   text-align: center;
   font-family: sans-serif;
 }

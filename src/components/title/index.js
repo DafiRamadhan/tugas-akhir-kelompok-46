@@ -1,11 +1,12 @@
 import React, { Component } from "react";
+import "../../styles.css";
 
 export default class title extends Component {
   render() {
     return (
       <div className="identity">
         <center><div className="container">
-          <h1 className="title">{this.props.title}</h1>
+          <h1 className="text">{this.props.title}</h1>
           <div>
             <img src={this.props.image} alt="Gambar" className="gambar" />
           </div>
@@ -13,7 +14,7 @@ export default class title extends Component {
             <h2 className="place">{this.props.title2}</h2>
             <h2 className="year">{this.props.subtitle}</h2>
             <tr />
-          </div>
+          </div><br/>
         </div></center>
       </div>
     );

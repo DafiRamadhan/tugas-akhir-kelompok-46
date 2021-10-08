@@ -42,7 +42,7 @@ class Menu extends Component {
   render() {
     return (
       <>
-        <h2 className="welcome">
+        <h2 className="text">
           Selamat datang, silakan pilih Menu dibawah ini!
         </h2>
         <div className="Menu">
