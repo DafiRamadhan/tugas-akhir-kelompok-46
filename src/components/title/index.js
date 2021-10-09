@@ -5,7 +5,7 @@ export default class title extends Component {
   render() {
     return (
       <div className="identity">
-        <center><div className="container">
+        <center><div>
           <h1 className="text">{this.props.title}</h1>
           <div>
             <img src={this.props.image} alt="Gambar" className="gambar" />

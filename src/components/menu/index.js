@@ -51,7 +51,7 @@ class Menu extends Component {
               {this.state.room ? "Tutup" : "Munculkan"} Daftar Kamar
             </button>
             {this.state.room && (
-              <Room image={Gambar1} image2={Gambar2} image3={Gambar3} />
+              <Room image={Gambar1} image2={Gambar2} image3={Gambar3}/>
             )}
           </div>
           <div className="component2">
